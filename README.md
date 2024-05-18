@@ -2,6 +2,13 @@
 - 🌱 I’m currently learning at ALX SE
 - [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=davidson961)](https://github.com/davidson961/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidson961&layout=compact)](https://github.com/davidson961/github-readme-stats)
+<a href="https://github.com/davidson961/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davidson961&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/davidson961/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davidson961&repo=convoychat" />
+</a>
+
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
