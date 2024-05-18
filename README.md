@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @davidson961
-- 🌱 I’m currently learning at ALX SE
+ Hi, I’m @Omar_Zamran
+- 🌱 I’m currently learning at ALX Software Engineering Program
 
 
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=davidson961)](https://github.com/davidson961/github-readme-stats)
